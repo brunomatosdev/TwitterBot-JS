@@ -1,0 +1,15 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "JavaScript Bot that Post Tweets Automaticly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BrunoMatosDev",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "twit": "^2.2.11"
+  }
+}
